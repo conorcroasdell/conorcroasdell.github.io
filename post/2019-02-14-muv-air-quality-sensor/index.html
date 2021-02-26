@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+    
+        <meta name="twitter:card" content="summary"/>
+    
+
+
+
+<meta name="twitter:title" content="MUV Air Quality Sensor"/>
+<meta name="twitter:description" content=""/>
+<meta name="twitter:site" content="@"/>
+
+
+
+  	<meta property="og:title" content="MUV Air Quality Sensor &middot; conorcroasdell" />
+  	<meta property="og:site_name" content="conorcroasdell" />
+  	<meta property="og:url" content="https://conorcroasdell.github.io/post/2019-02-14-muv-air-quality-sensor/" />
+
+    
+        
+            <meta property="og:image" content="/images/cover.png"/>
+        
+    
+
+    
+    <meta property="og:description" content="" />
+  	<meta property="og:type" content="article" />
+    <meta property="article:published_time" content="0001-01-01T00:00:00Z" />
+
+    
+    
+
+    <title>MUV Air Quality Sensor &middot; conorcroasdell</title>
+
+    
+    <meta name="description" content="Introduction: I was asked to make a case for the air quality sensor kit for the MUV urban mobility project. An open source citizen science project funded by the" />
+    
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="https://conorcroasdell.github.io/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="https://conorcroasdell.github.io/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="https://conorcroasdell.github.io/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="https://conorcroasdell.github.io/css/nav.css" />
+
+    
+
+    
+
+    
+      
+          <link href="https://conorcroasdell.github.io/index.xml" rel="alternate" type="application/rss+xml" title="conorcroasdell" />
+      
+      
+    
+    <meta name="generator" content="Hugo 0.80.0" />
+
+    <link rel="canonical" href="https://conorcroasdell.github.io/post/2019-02-14-muv-air-quality-sensor/" />
+
+    
+      
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name":  null ,
+        "logo": "https://conorcroasdell.github.io/images/logo.png"
+    },
+    "author": {
+        "@type": "Person",
+        "name":  null ,
+        
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://conorcroasdell.github.io/images/logo.png",
+            "width": 250,
+            "height": 250
+        }, 
+        
+        "url":  null ,
+        "sameAs": [
+            
+            
+             
+             
+             
+             
+             
+            
+        ]
+    },
+    "headline": "MUV Air Quality Sensor",
+    "name": "MUV Air Quality Sensor",
+    "wordCount":  1217 ,
+    "timeRequired": "PT6M",
+    "inLanguage": {
+      "@type": "Language",
+      "alternateName": "en"
+    },
+    "url": "https://conorcroasdell.github.io/post/2019-02-14-muv-air-quality-sensor/",
+    "datePublished": "0001-01-01T00:00Z",
+    "dateModified": "0001-01-01T00:00Z",
+    
+    
+    "description": "",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://conorcroasdell.github.io/post/2019-02-14-muv-air-quality-sensor/"
+    }
+}
+    </script>
+    
+
+
+    
+
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+        
+            <br />
+            <li class="nav-opened" role="presentation">
+            	<a href="https://conorcroasdell.github.io/">Home</a>
+            </li>
+        
+            <br />
+            <li class="nav-opened" role="presentation">
+            	<a href="https://conorcroasdell.github.io/post">Blog</a>
+            </li>
+        
+            <br />
+            <li class="nav-opened" role="presentation">
+            	<a href="https://conorcroasdell.github.io/contact">Contact</a>
+            </li>
+        
+        
+    </ul>
+
+    
+    <a class="subscribe-button icon-feed" href="https://conorcroasdell.github.io/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+<header class="main-header post-head no-cover">
+  <nav class="main-nav clearfix">
+
+
+  
+      <a class="blog-logo" href="https://conorcroasdell.github.io/"><img src="https://conorcroasdell.github.io/images/logo.png" alt="Home" /></a>
+  
+  
+      <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+  
+  </nav>
+</header>
+
+
+
+<main class="content" role="main">
+
+
+
+
+  <article class="post post">
+
+    <header class="post-header">
+        <h1 class="post-title">MUV Air Quality Sensor</h1>
+        <small></small>
+
+        <section class="post-meta">
+        
+          <time class="post-date" datetime="0001-01-01T00:00:00Z">
+            Jan 1, 0001
+          </time>
+        
+         
+        </section>
+    </header>
+
+    <section class="post-content">
+      <h2 id="introduction">Introduction:</h2>
+<p>I was asked to make a case for the air quality sensor kit for the MUV urban mobility project. An open source citizen science project funded by the EU. To allow it to be easily reproduced by others, the case should use an existing waterproof electronics enclosure and readily available parts. Instructions and the needed files were all published to the MUV GitHub page here: The timeframe from receiving the case to delivering the finished prototype and its documentation was 1.5 weeks.</p>
+<p><strong>Contents:</strong></p>
+<ol>
+<li>
+<p>Parts and sizing</p>
+</li>
+<li>
+<p>Brief</p>
+</li>
+<li>
+<p>Making</p>
+</li>
+<li>
+<p>Instructions</p>
+</li>
+</ol>
+<h2 id="1-parts-and-sizing">1. Parts and Sizing:</h2>
+<p>25 x: m3 washers
+50 x: m3 nuts
+2 x: m6 x 25 hook bolt
+4 x: m6 nut
+4 x: m6 washer
+4 x: m5 nut
+4 x: m5 washer
+2 x: m4.5 wing nut (M4 also fits looser)
+2 x: m4.5 wing bolts (m4 also fits looser)
+4 x: m4.5 or m4 washers
+7 x: m3 x 30mm bolts <br>
+12 x: m3 x 12mm bolts
+4 x: m3 x 25mm bolts
+4 x: m3 x 15mm bolts</p>
+<p>1 x 19.05mm blind grommet
+1 x 22.23mm blind grommet
+1 x 14.29mm OD 7.94mm ID grommet</p>
+<p><strong>Enclosure internal Dimensions:</strong>
+L: 245, W: 190 H: 68mm(without lid)</p>
+<p><strong>Dust sensor, SDS011:</strong></p>
+<p>Has a 190MM cable as standard</p>
+<p>Air barb diameter: 7.05
+Air barb length: 11</p>
+<p>Air hose: 8mm OD 6mm ID
+Air hose length: 75mm</p>
+<p>Screws: 3 x m3 x 30mm</p>
+<p><strong>Adafruit Feather M0 Basic Proto + PCB + noise sensor:</strong></p>
+<p>Cable: 200mm</p>
+<p>Screws: 4 x m3 x 30mm</p>
+<p><strong>Sensors PCB:</strong></p>
+<p>Cable: 200mm</p>
+<p>Screws: m3 x 12mm</p>
+<p><strong>Gas sensor w pcb:</strong></p>
+<p>Cable: 200mm</p>
+<p>Screws: m3 x 25mm</p>
+<p><strong>Temp/Hum/Pressure sensor:</strong></p>
+<p>Cable: 200mm</p>
+<p>Min screw length: m3 x 15mm</p>
+<p><strong>Inner Tube pieces for grip:</strong></p>
+<p>Hose clamp strain relief:
+71 x 42mm (x2)</p>
+<p>Drain pipe grip pad:
+180 x 42mm</p>
+<p>Balcony grip pad:
+115 x 42mm(x2)</p>
+<p>L section long pad:
+135 x 40mm (x2)
+w
+L section short pads:
+83 x 40mm (x2)</p>
+<h2 id="2-the-brief">2. The Brief:</h2>
+<p>Design a case for the MUV air quality sensor.</p>
+<p><strong>The case should:</strong></p>
+<ul>
+<li>
+<p>Be able to hold, securely, all of the sensors of the kit (dust, temp/press/humid, noise, 2 x N02)</p>
+</li>
+<li>
+<p>Allow the proper functioning of all the sensors</p>
+</li>
+<li>
+<p>Be waterproof and durable enough to withstand wet weather</p>
+</li>
+<li>
+<p>Be able to be mounted securely outdoors (e.g. on lamp posts)</p>
+</li>
+<li>
+<p>Be easy to make</p>
+</li>
+<li>
+<p>Be easy to service</p>
+</li>
+<li>
+<p>Be easy to assemble</p>
+</li>
+<li>
+<p>Use readily available parts</p>
+</li>
+</ul>
+<p><strong>Challenges:</strong></p>
+<p>I think allowing the sensors access to the outside with the sensors without allowing moisture in is a big challenge.</p>
+<p>The 2 gas sensors, the dust sensor and the temp/ humidity sensor will have to have access to the outside air to collect data properly. The USB cable for power must also be able to plug in to the main board. The microphone must also be able to record the audio from outside.</p>
+<p>I think the best option is to have all of the holes on the bottom to avoid rain gathering in them from above. I will mount a &ldquo;baseplate&rdquo; to the screw holes in the bottom of the box. These holes are raised 11.1mm from the bottom of the box, so I will have an 11.1mm gap between the baseplate and the floor of the box where the air holes are. I will then mount the sensors to holes in the baseplate so they can poke through the baseplate to access the airflow. I think that by keeping this 11.1mm gap between the air holes and the sensors, I can stop rain from being able to reach the sensors. I will have to test it and see.</p>
+<p>I will have to come up with a way to seal the components to the holes, I think glue or silicone would work but I would like to try to make some gaskets or O-rings myself and see if they stop the moisture. Using these, the sensors could be more easily removable for maintenance.</p>
+<p><img src="assets%5Cimages%5CMUVAirQual%5CProcess27.jpg" alt="MUV AirQual"></p>
+<p>Another potential problem will be allowing the status of the LED to be visible from the outside. To carry the light from the led to the wall of the case, I will try to use &ldquo;light piping&rdquo; with a piece of frosted acrylic. The acrylic  will be sealed to a hole in the case wall.</p>
+<p><img src="assets%5Cimages%5CMUVAirQual%5CProcess31.jpg" alt="MUV AirQual"></p>
+<p><a href="http://blog.stratasys.com/wp-content/uploads/2015/10/3d-printed-light-pipes-e1443786870121.jpg">http://blog.stratasys.com/wp-content/uploads/2015/10/3d-printed-light-pipes-e1443786870121.jpg</a></p>
+<p>If that doesn&rsquo;t work, or if I don&rsquo;t have the time, I will replace the light pipe with a simple Acrylic window.</p>
+<p><strong>Designing &amp; Testing:</strong></p>
+<p>For the outer enclosure of the sensors I will use an off the shelf waterproof enclosure. I will then modify this enclosure to hold the sensors in a way which allows good collection of the data (good airflow). I will make my design for holding the sensors in the enclosure easily resizable for those who can only source other size enclosures.</p>
+<p>I chose this waterproof enclosure for this first version of the air quality kit:
+<a href="https://www.amazon.de/dp/B0151KNMB2/ref=pe_3044161_185740101_TE_item">https://www.amazon.de/dp/B0151KNMB2/ref=pe_3044161_185740101_TE_item</a></p>
+<p><img src="assets%5Cimages%5CMUVAirQual%5CProcess30.jpg" alt="MUV AirQual"></p>
+<p>This case is larger than I need but there are many others like it available in different sizes from online stores worldwide. This case had a short delivery time to me so I went with it.</p>
+<p>So by modifying my baseplate design (changing the screw hole locations, scaling, changing sensor locations) it can be adapted to fit many of these outdoor enclosures.</p>
+<p>I can mount the sensors to the baseplate simply with screws and nuts, as the PCBs have screw holes in the corners already.</p>
+<p>I decided to cut out the bottom of the enclosure and replace it with a laser cut acrylic plate with holes cut in it for airflow to the sensors. This plate can be modified in response to testing to increase or decrease the airflow by using more or less air flow holes.</p>
+<p><img src="assets%5Cimages%5CMUVAirQual%5CProcess14.jpg" alt="MUV AirQual">
+<img src="assets%5Cimages%5CMUVAirQual%5CProcess11.jpg" alt="MUV AirQual">
+<img src="assets%5Cimages%5CMUVAirQual%5CProcess15.jpg" alt="MUV AirQual">
+<img src="assets%5Cimages%5CMUVAirQual%5CProcess12.jpg" alt="MUV AirQual"></p>
+<p>The kit must operate in the outdoor setting of a balcony. To secure the kit in this setting. I chose to design another plate from acrylic which can attach to the enclosure. The mounting plate will allow hose clamps to attach for mounting to drain pipes and clamps to attach for mounting to railings.</p>
+<p><img src="assets%5Cimages%5CMUVAirQual%5CProcess13.jpg" alt="MUV AirQual"></p>
+<h2 id="3-making">3. Making</h2>
+<p>During the process of making my design, I made small tests to see if my measurements were correct in less costly materials such as cardboard and poplar plywood. This was important because I only had enough acrylic to cut the final parts once. For elements such as the rubber grommets holes in the base plate and hose clamp slots in the mounting plate, I made tests with several different sizes/ spacings to find the best fit.</p>
+<p><strong>Process Images:</strong></p>
+<p>Cardboard base plate:
+<img src="assets%5Cimages%5CMUVAirQual%5CProcess2.jpg" alt="MUV AirQual"></p>
+<p>Poplar base plate:
+<img src="assets%5Cimages%5CMUVAirQual%5CProcess4.jpg" alt="MUV AirQual"></p>
+<p>Testing fit of the sensors:
+<img src="assets%5Cimages%5CMUVAirQual%5CProcess5.jpg" alt="MUV AirQual"></p>
+<p>Rubber grommet hole sizing test:
+<img src="assets%5Cimages%5CMUVAirQual%5CProcess6.jpg" alt="MUVAirQual"></p>
+<p>Hose clamp slots sizing/spacing test:
+<img src="assets%5Cimages%5CMUVAirQual%5CProcess.png" alt="MUV AirQual"></p>
+<p>Carboard mounting plate w/ hose clamp:
+<img src="assets%5Cimages%5CMUVAirQual%5CProcess10.jpg" alt="MUV AirQual"></p>
+<p>Air holes plate sizing test:
+<img src="assets%5Cimages%5CMUVAirQual%5CProcess23.jpg" alt="MUV AirQual"></p>
+<p>##4. Instructions</p>
+<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-00.jpg)</p>
+<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-01.jpg)</p>
+<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-02.jpg)</p>
+<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-03.jpg)</p>
+<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-04.jpg)</p>
+<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-05.jpg)</p>
+<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-06.jpg)</p>
+<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-07.jpg)</p>
+<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-08.jpg)</p>
+<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-09.jpg)</p>
+<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-10.jpg)</p>
+<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-11.jpg)</p>
+<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-12.jpg)</p>
+<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-13.jpg)</p>
+<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-14.jpg)</p>
+<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-15.jpg)</p>
+<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-16.jpg)</p>
+
+    </section>
+
+
+  <footer class="post-footer">
+
+
+    
+
+
+
+
+    
+<section class="share">
+  <h4>Share this post</h4>
+  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=MUV%20Air%20Quality%20Sensor&nbsp;-&nbsp;conorcroasdell&amp;url=https%3a%2f%2fconorcroasdell.github.io%2fpost%2f2019-02-14-muv-air-quality-sensor%2f"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="hidden">Twitter</span>
+  </a>
+  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fconorcroasdell.github.io%2fpost%2f2019-02-14-muv-air-quality-sensor%2f"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="hidden">Facebook</span>
+  </a>
+  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=https%3a%2f%2fconorcroasdell.github.io%2fpost%2f2019-02-14-muv-air-quality-sensor%2f&amp;description=MUV%20Air%20Quality%20Sensor"
+      onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+      <span class="hidden">Pinterest</span>
+  </a>
+  <a class="icon-google-plus" style="font-size: 1.4em" href="https://plus.google.com/share?url=https%3a%2f%2fconorcroasdell.github.io%2fpost%2f2019-02-14-muv-air-quality-sensor%2f"
+     onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+      <span class="hidden">Google+</span>
+  </a>
+</section>
+
+
+
+    
+
+
+
+
+
+
+
+  </footer>
+</article>
+
+</main>
+
+
+  <aside class="read-next">
+  
+      <a class="read-next-story" style="no-cover" href="https://conorcroasdell.github.io/post/2018-11-25-e-bike-research-1/">
+          <section class="post">
+              <h2>E-Bike Research 1</h2>
+              
+          </section>
+      </a>
+  
+  
+      <a class="read-next-story prev" style="no-cover" href="https://conorcroasdell.github.io/post/2018-12-20-muv-proximity-sensor/">
+          <section class="post">
+              <h2>MUV Proximity Sensor</h2>
+          </section>
+      </a>
+  
+</aside>
+
+
+
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="">conorcroasdell</a> © Yuanyuan GE 2020</section>
+        
+        <section class="poweredby">Proudly generated by <a class="icon-hugo" href="http://gohugo.io">HUGO</a>, with <a class="icon-theme" href="https://github.com/vjeantet/hugo-theme-casper">Casper</a> theme</section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="https://conorcroasdell.github.io/js/jquery.js"></script>
+    <script type="text/javascript" src="https://conorcroasdell.github.io/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="https://conorcroasdell.github.io/js/index.js"></script>
+    
+</body>
+</html>
+
