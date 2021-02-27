@@ -39,7 +39,8 @@
     <title>MUV Air Quality Sensor &middot; conorcroasdell</title>
 
     
-    <meta name="description" content="Introduction: I was asked to make a case for the air quality sensor kit for the MUV urban mobility project. An open source citizen science project funded by the" />
+    <meta name="description" content="For the full documentation including the lasercutter files, see the github: [https://github.com/waagsociety/air_quality_sensor_kit/tree/master/MUV%20Kit/Case]
+I" />
     
 
     <meta name="HandheldFriendly" content="True" />
@@ -102,8 +103,8 @@
     },
     "headline": "MUV Air Quality Sensor",
     "name": "MUV Air Quality Sensor",
-    "wordCount":  1217 ,
-    "timeRequired": "PT6M",
+    "wordCount":  1288 ,
+    "timeRequired": "PT7M",
     "inLanguage": {
       "@type": "Language",
       "alternateName": "en"
@@ -152,7 +153,7 @@
         
             <br />
             <li class="nav-opened" role="presentation">
-            	<a href="https://conorcroasdell.github.io/contact">Contact</a>
+            	<a href="https://conorcroasdell.github.io/contact">Main Website</a>
             </li>
         
         
@@ -206,7 +207,8 @@
     </header>
 
     <section class="post-content">
-      <h2 id="introduction">Introduction:</h2>
+      <p><strong>For the full documentation including the lasercutter files, see the github: [https://github.com/waagsociety/air_quality_sensor_kit/tree/master/MUV%20Kit/Case]</strong></p>
+<p><strong>Introduction:</strong></p>
 <p>I was asked to make a case for the air quality sensor kit for the MUV urban mobility project. An open source citizen science project funded by the EU. To allow it to be easily reproduced by others, the case should use an existing waterproof electronics enclosure and readily available parts. Instructions and the needed files were all published to the MUV GitHub page here: The timeframe from receiving the case to delivering the finished prototype and its documentation was 1.5 weeks.</p>
 <p><strong>Contents:</strong></p>
 <ol>
@@ -223,7 +225,7 @@
 <p>Instructions</p>
 </li>
 </ol>
-<h2 id="1-parts-and-sizing">1. Parts and Sizing:</h2>
+<p><strong>1. Parts and Sizing:</strong></p>
 <p>25 x: m3 washers
 50 x: m3 nuts
 2 x: m6 x 25 hook bolt
@@ -274,7 +276,7 @@ Air hose length: 75mm</p>
 w
 L section short pads:
 83 x 40mm (x2)</p>
-<h2 id="2-the-brief">2. The Brief:</h2>
+<p><strong>2. The Brief:</strong></p>
 <p>Design a case for the MUV air quality sensor.</p>
 <p><strong>The case should:</strong></p>
 <ul>
@@ -308,61 +310,61 @@ L section short pads:
 <p>The 2 gas sensors, the dust sensor and the temp/ humidity sensor will have to have access to the outside air to collect data properly. The USB cable for power must also be able to plug in to the main board. The microphone must also be able to record the audio from outside.</p>
 <p>I think the best option is to have all of the holes on the bottom to avoid rain gathering in them from above. I will mount a &ldquo;baseplate&rdquo; to the screw holes in the bottom of the box. These holes are raised 11.1mm from the bottom of the box, so I will have an 11.1mm gap between the baseplate and the floor of the box where the air holes are. I will then mount the sensors to holes in the baseplate so they can poke through the baseplate to access the airflow. I think that by keeping this 11.1mm gap between the air holes and the sensors, I can stop rain from being able to reach the sensors. I will have to test it and see.</p>
 <p>I will have to come up with a way to seal the components to the holes, I think glue or silicone would work but I would like to try to make some gaskets or O-rings myself and see if they stop the moisture. Using these, the sensors could be more easily removable for maintenance.</p>
-<p><img src="assets%5Cimages%5CMUVAirQual%5CProcess27.jpg" alt="MUV AirQual"></p>
+<p>![MUV AirQual](\assets\images\MUVAirQual\MUV Air Qual-12.jpg)</p>
 <p>Another potential problem will be allowing the status of the LED to be visible from the outside. To carry the light from the led to the wall of the case, I will try to use &ldquo;light piping&rdquo; with a piece of frosted acrylic. The acrylic  will be sealed to a hole in the case wall.</p>
-<p><img src="assets%5Cimages%5CMUVAirQual%5CProcess31.jpg" alt="MUV AirQual"></p>
+<p>![MUV AirQual](\assets\images\MUVAirQual\MUV Air Qual-15.jpg)</p>
 <p><a href="http://blog.stratasys.com/wp-content/uploads/2015/10/3d-printed-light-pipes-e1443786870121.jpg">http://blog.stratasys.com/wp-content/uploads/2015/10/3d-printed-light-pipes-e1443786870121.jpg</a></p>
 <p>If that doesn&rsquo;t work, or if I don&rsquo;t have the time, I will replace the light pipe with a simple Acrylic window.</p>
 <p><strong>Designing &amp; Testing:</strong></p>
 <p>For the outer enclosure of the sensors I will use an off the shelf waterproof enclosure. I will then modify this enclosure to hold the sensors in a way which allows good collection of the data (good airflow). I will make my design for holding the sensors in the enclosure easily resizable for those who can only source other size enclosures.</p>
 <p>I chose this waterproof enclosure for this first version of the air quality kit:
 <a href="https://www.amazon.de/dp/B0151KNMB2/ref=pe_3044161_185740101_TE_item">https://www.amazon.de/dp/B0151KNMB2/ref=pe_3044161_185740101_TE_item</a></p>
-<p><img src="assets%5Cimages%5CMUVAirQual%5CProcess30.jpg" alt="MUV AirQual"></p>
+<p>![MUV AirQual](\assets\images\MUVAirQual\MUV Air Qual-14.jpg)</p>
 <p>This case is larger than I need but there are many others like it available in different sizes from online stores worldwide. This case had a short delivery time to me so I went with it.</p>
 <p>So by modifying my baseplate design (changing the screw hole locations, scaling, changing sensor locations) it can be adapted to fit many of these outdoor enclosures.</p>
 <p>I can mount the sensors to the baseplate simply with screws and nuts, as the PCBs have screw holes in the corners already.</p>
 <p>I decided to cut out the bottom of the enclosure and replace it with a laser cut acrylic plate with holes cut in it for airflow to the sensors. This plate can be modified in response to testing to increase or decrease the airflow by using more or less air flow holes.</p>
-<p><img src="assets%5Cimages%5CMUVAirQual%5CProcess14.jpg" alt="MUV AirQual">
-<img src="assets%5Cimages%5CMUVAirQual%5CProcess11.jpg" alt="MUV AirQual">
-<img src="assets%5Cimages%5CMUVAirQual%5CProcess15.jpg" alt="MUV AirQual">
-<img src="assets%5Cimages%5CMUVAirQual%5CProcess12.jpg" alt="MUV AirQual"></p>
+<p>![MUV AirQual](\assets\images\MUVAirQual\MUV Air Qual-10.jpg)
+![MUV AirQual](\assets\images\MUVAirQual\MUV Air Qual-7.jpg)
+![MUV AirQual](\assets\images\MUVAirQual\MUV Air Qual-11.jpg)
+![MUV AirQual](\assets\images\MUVAirQual\MUV Air Qual-8.jpg)</p>
 <p>The kit must operate in the outdoor setting of a balcony. To secure the kit in this setting. I chose to design another plate from acrylic which can attach to the enclosure. The mounting plate will allow hose clamps to attach for mounting to drain pipes and clamps to attach for mounting to railings.</p>
-<p><img src="assets%5Cimages%5CMUVAirQual%5CProcess13.jpg" alt="MUV AirQual"></p>
-<h2 id="3-making">3. Making</h2>
+<p>![MUV AirQual](\assets\images\MUVAirQual\MUV Air Qual-9.jpg)</p>
+<p><strong>3. Making</strong></p>
 <p>During the process of making my design, I made small tests to see if my measurements were correct in less costly materials such as cardboard and poplar plywood. This was important because I only had enough acrylic to cut the final parts once. For elements such as the rubber grommets holes in the base plate and hose clamp slots in the mounting plate, I made tests with several different sizes/ spacings to find the best fit.</p>
 <p><strong>Process Images:</strong></p>
 <p>Cardboard base plate:
-<img src="assets%5Cimages%5CMUVAirQual%5CProcess2.jpg" alt="MUV AirQual"></p>
+![MUV AirQual](\assets\images\MUVAirQual\MUV Air Qual-2.jpg)</p>
 <p>Poplar base plate:
-<img src="assets%5Cimages%5CMUVAirQual%5CProcess4.jpg" alt="MUV AirQual"></p>
+![MUV AirQual](\assets\images\MUVAirQual\MUV Air Qual-3.jpg)</p>
 <p>Testing fit of the sensors:
-<img src="assets%5Cimages%5CMUVAirQual%5CProcess5.jpg" alt="MUV AirQual"></p>
+![MUV AirQual](\assets\images\MUVAirQual\MUV Air Qual-4.jpg)</p>
 <p>Rubber grommet hole sizing test:
-<img src="assets%5Cimages%5CMUVAirQual%5CProcess6.jpg" alt="MUVAirQual"></p>
+![MUVAirQual](\assets\images\MUVAirQual\MUV Air Qual-5.jpg)</p>
 <p>Hose clamp slots sizing/spacing test:
-<img src="assets%5Cimages%5CMUVAirQual%5CProcess.png" alt="MUV AirQual"></p>
+![MUV AirQual](\assets\images\MUVAirQual\MUV Air Qual.png)</p>
 <p>Carboard mounting plate w/ hose clamp:
-<img src="assets%5Cimages%5CMUVAirQual%5CProcess10.jpg" alt="MUV AirQual"></p>
+![MUV AirQual](\assets\images\MUVAirQual\MUV Air Qual-6.jpg)</p>
 <p>Air holes plate sizing test:
-<img src="assets%5Cimages%5CMUVAirQual%5CProcess23.jpg" alt="MUV AirQual"></p>
-<p>##4. Instructions</p>
-<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-00.jpg)</p>
-<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-01.jpg)</p>
-<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-02.jpg)</p>
-<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-03.jpg)</p>
-<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-04.jpg)</p>
-<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-05.jpg)</p>
-<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-06.jpg)</p>
-<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-07.jpg)</p>
-<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-08.jpg)</p>
-<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-09.jpg)</p>
-<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-10.jpg)</p>
-<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-11.jpg)</p>
-<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-12.jpg)</p>
-<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-13.jpg)</p>
-<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-14.jpg)</p>
-<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-15.jpg)</p>
-<p>![MUV AirQual](assets\images\Instructions\MUV Air Quality Kit Instructions-16.jpg)</p>
+![MUV AirQual](\assets\images\MUVAirQual\MUV Air Qual-13.jpg)</p>
+<p><strong>4. Instructions</strong></p>
+<p>![MUV AirQual](\assets\images\Instructions\MUV Air Quality Kit Instructions.jpg)</p>
+<p>![MUV AirQual](\assets\images\Instructions\MUV Air Quality Kit Instructions-2.jpg)</p>
+<p>![MUV AirQual](\assets\images\Instructions\MUV Air Quality Kit Instructions-3.jpg)</p>
+<p>![MUV AirQual](\assets\images\Instructions\MUV Air Quality Kit Instructions-4.jpg)</p>
+<p>![MUV AirQual](\assets\images\Instructions\MUV Air Quality Kit Instructions-5.jpg)</p>
+<p>![MUV AirQual](\assets\images\Instructions\MUV Air Quality Kit Instructions-6.jpg)</p>
+<p>![MUV AirQual](\assets\images\Instructions\MUV Air Quality Kit Instructions-7.jpg)</p>
+<p>![MUV AirQual](\assets\images\Instructions\MUV Air Quality Kit Instructions-8.jpg)</p>
+<p>![MUV AirQual](\assets\images\Instructions\MUV Air Quality Kit Instructions-9.jpg)</p>
+<p>![MUV AirQual](\assets\images\Instructions\MUV Air Quality Kit Instructions-17.jpg)</p>
+<p>![MUV AirQual](\assets\images\Instructions\MUV Air Quality Kit Instructions-101.jpg)</p>
+<p>![MUV AirQual](\assets\images\Instructions\MUV Air Quality Kit Instructions-102.jpg)</p>
+<p>![MUV AirQual](\assets\images\Instructions\MUV Air Quality Kit Instructions-103.jpg)</p>
+<p>![MUV AirQual](\assets\images\Instructions\MUV Air Quality Kit Instructions-104.jpg)</p>
+<p>![MUV AirQual](\assets\images\Instructions\MUV Air Quality Kit Instructions-105.jpg)</p>
+<p>![MUV AirQual](\assets\images\Instructions\MUV Air Quality Kit Instructions-106.jpg)</p>
+<p>![MUV AirQual](\assets\images\Instructions\MUV Air Quality Kit Instructions-107.jpg)</p>
 
     </section>
 
@@ -414,9 +416,9 @@ L section short pads:
 
   <aside class="read-next">
   
-      <a class="read-next-story" style="no-cover" href="https://conorcroasdell.github.io/post/2018-11-25-e-bike-research-1/">
+      <a class="read-next-story" style="no-cover" href="https://conorcroasdell.github.io/post/2019-03-25-e-bike-blog-5/">
           <section class="post">
-              <h2>E-Bike Research 1</h2>
+              <h2>E-Bike Blog 5</h2>
               
           </section>
       </a>
