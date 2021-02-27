@@ -1,124 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on conorcroasdell</title>
+    <title>Posts on Conor Croasdell: The Blog</title>
     <link>https://conorcroasdell.github.io/post/</link>
-    <description>Recent content in Posts on conorcroasdell</description>
+    <description>Recent content in Posts on Conor Croasdell: The Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Yuanyuan GE 2020</copyright>
-    <lastBuildDate>Sat, 24 Nov 2018 22:19:00 +0200</lastBuildDate><atom:link href="https://conorcroasdell.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Feb 2021 22:19:00 +0200</lastBuildDate><atom:link href="https://conorcroasdell.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Open-E Bike Kit Brief &#43; Introduction</title>
-      <link>https://conorcroasdell.github.io/post/2018-11-24-open-e-bike-kit-brief/</link>
-      <pubDate>Sat, 24 Nov 2018 22:19:00 +0200</pubDate>
+      <title>E-Bike Revisited 2021: Blog 1</title>
+      <link>https://conorcroasdell.github.io/post/2021-02-20-e-bike-2021-blog-1/</link>
+      <pubDate>Sat, 20 Feb 2021 22:19:00 +0200</pubDate>
       
-      <guid>https://conorcroasdell.github.io/post/2018-11-24-open-e-bike-kit-brief/</guid>
-      <description>layout: post title: &amp;ldquo;Open-E Bike Kit Brief + Introduction&amp;rdquo; date: &amp;lsquo;2018-11-24T22:19:00+02:00&amp;rsquo; An Open E-Bike Kit
-Motivation and the Idea:
-As part of my internship at Fablab Amsterdam I will work on a project of my own. For this I chose to make an add-on E-bike kit, following the open design concept. I came to this idea after moving to the Netherlands and using a bike as daily transport for the first time.</description>
-    </item>
-    
-    <item>
-      <title>E-Bike Blog 1</title>
-      <link>https://conorcroasdell.github.io/post/2018-11-25-e-bike-blog-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://conorcroasdell.github.io/post/2018-11-25-e-bike-blog-1/</guid>
-      <description>Research Stage 1, 19/11/18 - 26/11/18:
+      <guid>https://conorcroasdell.github.io/post/2021-02-20-e-bike-2021-blog-1/</guid>
+      <description>Research Stage 1, 19/11/18 - 25/11/18:
 I began by researching the different types of e-bikes and the history of e-bikes overall. After settling on the friction drive as the variant which best fits my project, I looked into the existing friction drive offerings, both D.I.Y. and commercial. I found friction drive designs from the late 1800s until now. I particularly noticed the recent trend in popularity of small friction drive kits being released, often through crowdfunding.</description>
-    </item>
-    
-    <item>
-      <title>E-Bike Blog 2</title>
-      <link>https://conorcroasdell.github.io/post/2018-11-27-e-bike-blog-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://conorcroasdell.github.io/post/2018-11-27-e-bike-blog-2/</guid>
-      <description>Research Stage 2 26/11/18 - 3/11/18:
-Parts:
-For my first prototype (P1), I chose to use the most simple equipment I could find to mock-up the power system for my motor. For this test, I just wanted to produce a mock-up that would allow me to adjust the speed of the motor with a throttle of some kind, using batteries which are similar in voltage to those I plan to use in my final version.</description>
-    </item>
-    
-    <item>
-      <title>E-Bike Blog 3</title>
-      <link>https://conorcroasdell.github.io/post/2018-12-05-e-bike-blog-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://conorcroasdell.github.io/post/2018-12-05-e-bike-blog-3/</guid>
-      <description>Research Stage 3, 3/12/18 - 10/12/18:
-To move from the desk test setup to the first ridable prototype, P1. I will need to buy a clamp for mounting to the seatpost or the bikes frame (these seem to be the most straightforward mounting locations so I will focus on them for the first mock-up). I think it makes sense to buy a commercial seat clamp (known as an &amp;ldquo;O-clamp&amp;rdquo; or an &amp;ldquo;axle clamp&amp;rdquo;) as they are readily available and made to fit the range of tube sizes.</description>
-    </item>
-    
-    <item>
-      <title>E-Bike Blog 4</title>
-      <link>https://conorcroasdell.github.io/post/2019-03-07-e-bike-blog-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://conorcroasdell.github.io/post/2019-03-07-e-bike-blog-4/</guid>
-      <description>Building a Mock-Up for Testing: Prototype 0 (P0)
-Reasons for Building a Mock-Up:
-My next step was to move from the bench test to a first working mockup. The mockup I will make will be a simple seat post/tube mounted design.
-Sketches: ![](\assets\images\E-Bike Blog 4\Blog Four-5.jpg)
-I need a mockup to test some important aspects of the design such as the positioning of the motor on the wheel (at what angle?</description>
-    </item>
-    
-    <item>
-      <title>E-Bike Blog 5</title>
-      <link>https://conorcroasdell.github.io/post/2019-03-25-e-bike-blog-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://conorcroasdell.github.io/post/2019-03-25-e-bike-blog-5/</guid>
-      <description>** Mock-Up: First Test **
-The First Try:
-On the first try the motor arm wasn&amp;rsquo;t held securely enough to the clamp, despite the hex bolt being so tight that I felt the clamp would break if I turned it anymore. This meant that the smallest bump in the road or slipping of the motor on the wheel (for example if too much power is applied when the bike is not moving fast enough) can move the motor arm up and out of contact with the wheel.</description>
-    </item>
-    
-    <item>
-      <title>Main Website</title>
-      <link>https://conorcroasdell.github.io/post/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://conorcroasdell.github.io/post/contact/</guid>
-      <description>Visit the main website of Conor Croasdellhttps://conorcroasdell.wixsite.com/mysite</description>
-    </item>
-    
-    <item>
-      <title>MUV Air Quality Sensor</title>
-      <link>https://conorcroasdell.github.io/post/2019-02-14-muv-air-quality-sensor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://conorcroasdell.github.io/post/2019-02-14-muv-air-quality-sensor/</guid>
-      <description>For the full documentation including the lasercutter files, see the github: [https://github.com/waagsociety/air_quality_sensor_kit/tree/master/MUV%20Kit/Case]
-Introduction:
-I was asked to make a case for the air quality sensor kit for the MUV urban mobility project. An open source citizen science project funded by the EU. To allow it to be easily reproduced by others, the case should use an existing waterproof electronics enclosure and readily available parts. Instructions and the needed files were all published to the MUV GitHub page here: The timeframe from receiving the case to delivering the finished prototype and its documentation was 1.</description>
-    </item>
-    
-    <item>
-      <title>MUV Proximity Sensor</title>
-      <link>https://conorcroasdell.github.io/post/2018-12-20-muv-proximity-sensor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://conorcroasdell.github.io/post/2018-12-20-muv-proximity-sensor/</guid>
-      <description>For the full documentation including the lasercutter files, see the github: [https://github.com/waagsociety/proximity_kit/tree/master/PK_MUV/Case]
-Making a case for the MUV proximity sensor:
-Proximity sensor, PCB + Components Dimensions:
-Screw holes: 51.5mm x 38.75mm
-H: 70mm
-W: 59mm x 59mm
-Proximity Sensor Case, Key points for design:
--Allow NFC to function
--Design for manufacture with Fablab machines
--Ease of assembly
--Access to all buttons and USB port
--Access to battery
--B,C and Tag LEDs all visible</description>
     </item>
     
     <item>
       <title>Mycelium &amp; Straw Material Research - Introduction</title>
       <link>https://conorcroasdell.github.io/post/2019-04-23-mycelium-straw-material-research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Apr 2019 22:19:00 +0200</pubDate>
       
       <guid>https://conorcroasdell.github.io/post/2019-04-23-mycelium-straw-material-research/</guid>
       <description>Preparation
@@ -130,7 +32,7 @@ First we prepared a dish with scraps of some of the larger diameter sections of 
     <item>
       <title>Mycelium Research</title>
       <link>https://conorcroasdell.github.io/post/2019-05-05-mycelium-research-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Apr 2019 22:19:00 +0200</pubDate>
       
       <guid>https://conorcroasdell.github.io/post/2019-05-05-mycelium-research-1/</guid>
       <description>Mycelium Research in chronological order:
@@ -150,15 +52,121 @@ Good Tip:
     <item>
       <title>Straw Weaving, Skep Making Research</title>
       <link>https://conorcroasdell.github.io/post/2019-05-05-skep-making-research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Apr 2019 22:19:00 +0200</pubDate>
       
       <guid>https://conorcroasdell.github.io/post/2019-05-05-skep-making-research/</guid>
-      <description>Skep making &amp;amp; straw weaving: Research in Chronological Order
-05/05/19:
-Hands: Of Bees &amp;amp; Bee Skeps - https://www.youtube.com/watch?v=99MBkslFhGU
+      <description>Hands: Of Bees &amp;amp; Bee Skeps - https://www.youtube.com/watch?v=99MBkslFhGU
 Ireland: Wheat straw tied with briar. the straw must be whole, not cut up by a machine like a harvester. The straw and briar must be well dead so there&amp;rsquo;s no sap in them. In this film, they don&amp;rsquo;t use any tools to twist and tie the straw.
 6:40 - 16:40
-Making a Skep, a traditional straw beehive - https://www.</description>
+Making a Skep, a traditional straw beehive - https://www.youtube.com/watch?v=BBCub2_bKVI
+Traditional craft fair: Here they use a tool called a &amp;ldquo;girth&amp;rdquo; made from a hollow and truncated animal horn to twist the straw and hold it tight as they tie it.</description>
+    </item>
+    
+    <item>
+      <title>E-Bike Blog 5</title>
+      <link>https://conorcroasdell.github.io/post/2019-03-25-e-bike-blog-5/</link>
+      <pubDate>Mon, 25 Mar 2019 22:19:00 +0200</pubDate>
+      
+      <guid>https://conorcroasdell.github.io/post/2019-03-25-e-bike-blog-5/</guid>
+      <description>Mock-Up: First Test
+The First Try:
+On the first try the motor arm wasn&amp;rsquo;t held securely enough to the clamp, despite the hex bolt being so tight that I felt the clamp would break if I turned it anymore. This meant that the smallest bump in the road or slipping of the motor on the wheel (for example if too much power is applied when the bike is not moving fast enough) can move the motor arm up and out of contact with the wheel.</description>
+    </item>
+    
+    <item>
+      <title>E-Bike Blog 4</title>
+      <link>https://conorcroasdell.github.io/post/2019-03-07-e-bike-blog-4/</link>
+      <pubDate>Thu, 07 Mar 2019 22:19:00 +0200</pubDate>
+      
+      <guid>https://conorcroasdell.github.io/post/2019-03-07-e-bike-blog-4/</guid>
+      <description>Building a Mock-Up for Testing: Prototype 0 (P0)
+Reasons for Building a Mock-Up:
+My next step was to move from the bench test to a first working mockup. The mockup I will make will be a simple seat post/tube mounted design.
+Sketches: I need a mockup to test some important aspects of the design such as the positioning of the motor on the wheel (at what angle?), the amount of pressure needed to force the motor in to contact with the tyre (is a spring of some kind needed?</description>
+    </item>
+    
+    <item>
+      <title>MUV Air Quality Sensor</title>
+      <link>https://conorcroasdell.github.io/post/2019-02-14-muv-air-quality-sensor/</link>
+      <pubDate>Thu, 14 Feb 2019 22:19:00 +0200</pubDate>
+      
+      <guid>https://conorcroasdell.github.io/post/2019-02-14-muv-air-quality-sensor/</guid>
+      <description>For the full documentation including the lasercutter files, see the github:
+https://github.com/waagsociety/air_quality_sensor_kit/tree/master/MUV%20Kit/Case
+Introduction:
+I was asked to make a case for the air quality sensor kit for the MUV urban mobility project. An open source citizen science project funded by the EU. To allow it to be easily reproduced by others, the case should use an existing waterproof electronics enclosure and readily available parts. Instructions and the needed files were all published to the MUV GitHub page here: The timeframe from receiving the case to delivering the finished prototype and its documentation was 1.</description>
+    </item>
+    
+    <item>
+      <title>MUV Proximity Sensor</title>
+      <link>https://conorcroasdell.github.io/post/2018-12-20-muv-proximity-sensor/</link>
+      <pubDate>Mon, 24 Dec 2018 22:19:00 +0200</pubDate>
+      
+      <guid>https://conorcroasdell.github.io/post/2018-12-20-muv-proximity-sensor/</guid>
+      <description>For the full documentation including the lasercutter files, see the github: [https://github.com/waagsociety/proximity_kit/tree/master/PK_MUV/Case]
+Making a case for the MUV proximity sensor:
+Proximity sensor, PCB + Components Dimensions:
+Screw holes: 51.5mm x 38.75mm
+H: 70mm
+W: 59mm x 59mm
+Proximity Sensor Case, Key points for design:
+-Allow NFC to function
+-Design for manufacture with Fablab machines
+-Ease of assembly
+-Access to all buttons and USB port
+-Access to battery
+-B,C and Tag LEDs all visible</description>
+    </item>
+    
+    <item>
+      <title>E-Bike Blog 3</title>
+      <link>https://conorcroasdell.github.io/post/2018-12-05-e-bike-blog-3/</link>
+      <pubDate>Wed, 05 Dec 2018 22:19:00 +0200</pubDate>
+      
+      <guid>https://conorcroasdell.github.io/post/2018-12-05-e-bike-blog-3/</guid>
+      <description>Research Stage 3, 3/12/18 - 10/12/18:
+To move from the desk test setup to the first ridable prototype, P1. I will need to buy a clamp for mounting to the seatpost or the bikes frame (these seem to be the most straightforward mounting locations so I will focus on them for the first mock-up). I think it makes sense to buy a commercial seat clamp (known as an &amp;ldquo;O-clamp&amp;rdquo; or an &amp;ldquo;axle clamp&amp;rdquo;) as they are readily available and made to fit the range of tube sizes.</description>
+    </item>
+    
+    <item>
+      <title>E-Bike Blog 2</title>
+      <link>https://conorcroasdell.github.io/post/2018-11-27-e-bike-blog-2/</link>
+      <pubDate>Tue, 27 Nov 2018 22:19:00 +0200</pubDate>
+      
+      <guid>https://conorcroasdell.github.io/post/2018-11-27-e-bike-blog-2/</guid>
+      <description>Research Stage 2 26/11/18 - 3/11/18:
+Parts:
+For my first prototype (P1), I chose to use the most simple equipment I could find to mock-up the power system for my motor. For this test, I just wanted to produce a mock-up that would allow me to adjust the speed of the motor with a throttle of some kind, using batteries which are similar in voltage to those I plan to use in my final version.</description>
+    </item>
+    
+    <item>
+      <title>E-Bike Blog 1</title>
+      <link>https://conorcroasdell.github.io/post/2018-11-25-e-bike-blog-1/</link>
+      <pubDate>Sun, 25 Nov 2018 22:19:00 +0200</pubDate>
+      
+      <guid>https://conorcroasdell.github.io/post/2018-11-25-e-bike-blog-1/</guid>
+      <description>Research Stage 1 19/11/18 - 25/11/18:
+I began by researching the different types of e-bikes and the history of e-bikes overall. After settling on the friction drive as the variant which best fits my project, I looked into the existing friction drive offerings, both D.I.Y. and commercial. I found friction drive designs from the late 1800s until now. I particularly noticed the recent trend in popularity of small friction drive kits being released, often through crowdfunding.</description>
+    </item>
+    
+    <item>
+      <title>Open-E Bike Kit Brief &#43; Introduction</title>
+      <link>https://conorcroasdell.github.io/post/2018-11-24-open-e-bike-kit-brief/</link>
+      <pubDate>Sat, 24 Nov 2018 22:19:00 +0200</pubDate>
+      
+      <guid>https://conorcroasdell.github.io/post/2018-11-24-open-e-bike-kit-brief/</guid>
+      <description>An Open E-Bike Kit
+Motivation and the Idea:
+As part of my internship at Fablab Amsterdam I will work on a project of my own. For this I chose to make an add-on E-bike kit, following the open design concept. I came to this idea after moving to the Netherlands and using a bike as daily transport for the first time. The cheapness and effectiveness of the bicycle are clear as is it’s lesser environmental impact vs the car.</description>
+    </item>
+    
+    <item>
+      <title>Main Website</title>
+      <link>https://conorcroasdell.github.io/post/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://conorcroasdell.github.io/post/contact/</guid>
+      <description>Visit the main website of Conor Croasdellhttps://conorcroasdell.wixsite.com/mysite</description>
     </item>
     
   </channel>
