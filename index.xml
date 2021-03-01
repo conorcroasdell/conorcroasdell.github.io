@@ -13,8 +13,9 @@
       <pubDate>Sat, 20 Feb 2021 22:19:00 +0200</pubDate>
       
       <guid>https://conorcroasdell.github.io/post/2021-02-20-e-bike-2021-blog-1/</guid>
-      <description>Research Stage 1, 19/11/18 - 25/11/18:
-I began by researching the different types of e-bikes and the history of e-bikes overall. After settling on the friction drive as the variant which best fits my project, I looked into the existing friction drive offerings, both D.I.Y. and commercial. I found friction drive designs from the late 1800s until now. I particularly noticed the recent trend in popularity of small friction drive kits being released, often through crowdfunding.</description>
+      <description>Updated E- Bike Kit: 2021
+Reason for updating:
+The current version of the kit fits many types of bikes and is light and easy to attach/ remove but you have to be careful not to overstress the motor (by going up a hill, for example) because the ESC is dumb and will send more current than the motor windings can handle and they will burn out. The current design also uses a sliding 10K Ohm sliding potentiometer, mounted on the handlebar, as a throttle.</description>
     </item>
     
     <item>
