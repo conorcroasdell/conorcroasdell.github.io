@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Conor Croasdell: The Blog</title>
+    <title>Posts on Conor Croasdell: Research Blog</title>
     <link>https://conorcroasdell.github.io/post/</link>
-    <description>Recent content in Posts on Conor Croasdell: The Blog</description>
+    <description>Recent content in Posts on Conor Croasdell: Research Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 May 2021 12:19:00 +0240</lastBuildDate><atom:link href="https://conorcroasdell.github.io/post/index.xml" rel="self" type="application/rss+xml" />
@@ -34,22 +34,27 @@ Incubated @ 25 Celsius for 14 Days</description>
     </item>
     
     <item>
-      <title>Experiment 3: Growing and Processing Mycelium Composites</title>
+      <title>Experiment 3: Growing and Processing Mycelium/Flax Composites</title>
       <link>https://conorcroasdell.github.io/post/2021-04-29-experiment-growing-and-processing-lignocellulose-mycelium-compostites-from-the-agar-grown-samples/</link>
       <pubDate>Thu, 29 Apr 2021 12:19:00 +0240</pubDate>
       
       <guid>https://conorcroasdell.github.io/post/2021-04-29-experiment-growing-and-processing-lignocellulose-mycelium-compostites-from-the-agar-grown-samples/</guid>
-      <description>Preparatory Stage: To make the mycelium/ flax composite material it is first recommended to grow out the mycelium in a nutrient dense food source like a seed/ grain. By doing this the mycelium already has a food source and has begun growing when it is introduced to the flax, meaning it&amp;rsquo;s more resilient to contamination and can grow faster.
-Some say that grains with a smaller size are best as they give the mycelium many inoculation points to begin growing through the flax from once added.</description>
+      <description>Goal To gain experience practical experience with and to observe the entire process and variables involved in making mycelium/lignocellulose composites (with Ganoderma mycelium as the matrix, Flax as the substrate and Spray Millet as the grain spawn).
+The Ganoderma mycelium used has been isolated and grown by myself and was taken from the centre of a bag of colonised grain spawn which had been in the fridge for some months by a colleague at the lab.</description>
     </item>
     
     <item>
       <title>Desk Research 3: The Growing, Processing of Mycelium Composites and their Material Properties</title>
-      <link>https://conorcroasdell.github.io/post/2021-05-02-desk-research-on-the-growing-of-mycelium-composites-and-their-material-properties/</link>
+      <link>https://conorcroasdell.github.io/post/2021-04-29-desk-research-on-the-growing-of-mycelium-composites-and-their-material-properties/</link>
       <pubDate>Wed, 28 Apr 2021 12:19:00 +0240</pubDate>
       
-      <guid>https://conorcroasdell.github.io/post/2021-05-02-desk-research-on-the-growing-of-mycelium-composites-and-their-material-properties/</guid>
-      <description></description>
+      <guid>https://conorcroasdell.github.io/post/2021-04-29-desk-research-on-the-growing-of-mycelium-composites-and-their-material-properties/</guid>
+      <description>Mechanical, physical and chemical characterisation of mycelium-based composites with different types of lignocellulosic substrates July 22, 2019
+Elise Elsacker Simon Vandelook Joost Brancart Eveline Peeters
+PP.1
+&amp;ldquo;The conducted tests reveal that the mechanical performance of the mycelium-based composites depends more on the fibre processing (loose, chopped, pre-compressed, and tow), and size than on the chemical composition of the fibres&amp;rdquo;
+PP.9
+&amp;ldquo;The compressive stiffness is considerably larger for chopped flax, compared to any other fibre type and condition.</description>
     </item>
     
     <item>
@@ -66,27 +71,13 @@ Update 5/24/21: After sitting in my fridge vegetable draw since I made this post
     </item>
     
     <item>
-      <title> Making with Mycelium: Reading Note &amp; Quotes</title>
-      <link>https://conorcroasdell.github.io/post/2021-04-21-reading-notes-and-quotes-/</link>
-      <pubDate>Wed, 21 Apr 2021 22:19:00 +0200</pubDate>
-      
-      <guid>https://conorcroasdell.github.io/post/2021-04-21-reading-notes-and-quotes-/</guid>
-      <description>Mechanical, physical and chemical characterisation of mycelium-based composites with different types of lignocellulosic substrates July 22, 2019
-Elise Elsacker Simon Vandelook Joost Brancart Eveline Peeters
-PP.1
-&amp;ldquo;The conducted tests reveal that the mechanical performance of the mycelium-based composites depends more on the fibre processing (loose, chopped, pre-compressed, and tow), and size than on the chemical composition of the fibres&amp;rdquo;
-PP.9
-&amp;ldquo;The compressive stiffness is considerably larger for chopped flax, compared to any other fibre type and condition.</description>
-    </item>
-    
-    <item>
       <title>Experiment 2: Growing Leather-like Mycelium </title>
       <link>https://conorcroasdell.github.io/post/2021-04-12-experiment-2-growing-mycelium-leather/</link>
       <pubDate>Mon, 12 Apr 2021 12:19:00 +0240</pubDate>
       
       <guid>https://conorcroasdell.github.io/post/2021-04-12-experiment-2-growing-mycelium-leather/</guid>
-      <description>Goal To grow a layer of mycelium which can be processes and used in making the living jewellery.
-Method 1: Growing on Liquid Nutrients First I started with trying ou this method posted by Elise to the BioFabForum: https://biofabforum.org/t/method-of-making-mycelium-leather/218 I used Ganoderma Lucidum as I didn&amp;rsquo;t have any Schizophyllum Commune.
+      <description>Goal To grow a layer of mycelium which can be used in the living jewellery.
+Method 1: Growing on Liquid Nutrients First I started with trying out this method posted by Elise to the BioFabForum: https://biofabforum.org/t/method-of-making-mycelium-leather/218 I used Ganoderma Lucidum as I didn&amp;rsquo;t have any Schizophyllum Commune.
 &amp;ldquo;You need 1/2 to 1 agar plate of mycelium (e.g. species Trametes Versicolor, Schizophyllum commune, Pleurotus ostreatus).
 Remove all the agar to keep pure mycelium</description>
     </item>
@@ -97,8 +88,9 @@ Remove all the agar to keep pure mycelium</description>
       <pubDate>Sat, 10 Apr 2021 12:19:00 +0240</pubDate>
       
       <guid>https://conorcroasdell.github.io/post/2021-04-10-desk-research-on-growing-leather-like-mycelium/</guid>
-      <description>On Mycotech&amp;rsquo;s Kickstarter page for their Mycelium/ wood watch, they share some photos of their process for making their mycelium &amp;ldquo;leather&amp;rdquo;.
-It seems like they let it grow around the surface on blocks of what looks like sawdust and then they remove the sawdust to leave behind the mycelium fabric.</description>
+      <description>Solid State Method On Mycotech&amp;rsquo;s Kickstarter page for their Mycelium/ wood watch, they share some photos of their process for making their mycelium &amp;ldquo;leather&amp;rdquo;.
+It seems like they let it grow around the surface on blocks of what looks like sawdust and then they remove the sawdust to leave behind the mycelium fabric.
+High performance of macrofungi in the production of mycelium-based biofoams using sawdust — Sustainable technology for waste reduction Journal of Cleaner Production Volume 234, 10 October 2019, Pages 225-232</description>
     </item>
     
     <item>
@@ -365,11 +357,11 @@ As part of my internship at Fablab Amsterdam I will work on a project of my own.
     
     <item>
       <title>Main Website</title>
-      <link>https://conorcroasdell.github.io/post/contact/</link>
+      <link>https://conorcroasdell.github.io/post/0001-00-00-contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://conorcroasdell.github.io/post/contact/</guid>
-      <description>Visit the main website of Conor Croasdellhttps://conorcroasdell.wixsite.com/mysite</description>
+      <guid>https://conorcroasdell.github.io/post/0001-00-00-contact/</guid>
+      <description>Visit the main website of Conor Croasdell https://conorcroasdell.wixsite.com/mysite</description>
     </item>
     
   </channel>
