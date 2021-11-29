@@ -6,7 +6,41 @@
     <description>Recent content in Posts on Conor Croasdell: Research Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 May 2021 12:19:00 +0240</lastBuildDate><atom:link href="https://conorcroasdell.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Nov 2021 12:19:00 +0240</lastBuildDate><atom:link href="https://conorcroasdell.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recontextualising layer lines and the 3D printed Aesthetic</title>
+      <link>https://conorcroasdell.github.io/post/2021-11-02-recontextualising-layer-lines-and-the-3d-printed-aesthetic/</link>
+      <pubDate>Wed, 03 Nov 2021 12:19:00 +0240</pubDate>
+      
+      <guid>https://conorcroasdell.github.io/post/2021-11-02-recontextualising-layer-lines-and-the-3d-printed-aesthetic/</guid>
+      <description>(Scroll down for results &amp;amp; settings used)
+Abstract By making the layer lines inherent to the (FDM) 3D printing process a central aesthetic feature of the printed product&amp;rsquo;s design we can for 3D printed objects create objects have value because of the fact that they are 3D printed. This alternative aesthetic which works with the layer lines could be said to be a more honest representation of 3D printing.
+This is a starkly different characterisation of 3D printing&amp;rsquo;s value to that which would have 3D printed objects be as perfect a representation of the 3D model as possible, making visible layers a negative feature of the process.</description>
+    </item>
+    
+    <item>
+      <title>Research &amp; Sources Hacking Minor WDKA,2021</title>
+      <link>https://conorcroasdell.github.io/post/2021-10-29-research-hacking-minor-wdka-2021/</link>
+      <pubDate>Wed, 27 Oct 2021 12:19:00 +0240</pubDate>
+      
+      <guid>https://conorcroasdell.github.io/post/2021-10-29-research-hacking-minor-wdka-2021/</guid>
+      <description>Critical Reading Notes: https://mosacre.hotglue.me/?Hacking%20Minor%20Research/
+ Critical Reading Bibliography   Groten, Anja. “Hacking &amp;amp;; Designing: Paradoxes of Collaborative Practice.” The Critical Makers Reader, UnLearning Technology, no. #12, 2019, pp. 237–244. INC Reader.
+  Von Busch, Otto. Otto Von Busch - Hacking Design. 2010, https://www.youtube.com/watch?v=miWzqZmKAlw.
+  Witt, Andrew. “Design Hacking: The Machinery of Visual Combinatorics.” Log, no. 23, Anyone Corporation, 2011, pp. 17–25, http://www.jstor.org/stable/41765683.
+  Curtis, Adam. Can&amp;rsquo;t Get You Out of My Head, BBC iPlayer, 11 Feb.</description>
+    </item>
+    
+    <item>
+      <title>Intro: Hacking Minor WDKA, 2021: Motivation, My Project &amp; Plan</title>
+      <link>https://conorcroasdell.github.io/post/2021-10-26-hacking-minor-wdka-2021/</link>
+      <pubDate>Mon, 25 Oct 2021 12:19:00 +0240</pubDate>
+      
+      <guid>https://conorcroasdell.github.io/post/2021-10-26-hacking-minor-wdka-2021/</guid>
+      <description>What&amp;rsquo;s hacking to me? For me hacking is linked to looking critically at systems and exploring changes to them with the goals of democratisation and personal autonomy. These goals are linked to the deeper drive of empowering people.
+Undoubtedly my view of hacking is viewed through my own perspective as a product designer and someone who is interested in things, how we do or don’t produce them and how these things influence society and the balance of power.</description>
+    </item>
+    
     <item>
       <title>Photo Library: Mycelium on Agar</title>
       <link>https://conorcroasdell.github.io/post/2021-05-15-photo-library-mycelium-on-agar/</link>
@@ -127,15 +161,6 @@ A seller of pre- poured nutrient petris who use Potato dextrose gellan gum inste
     </item>
     
     <item>
-      <title>Historical Examples of jewellery</title>
-      <link>https://conorcroasdell.github.io/post/2021-04-16-jewellery-in-history/</link>
-      <pubDate>Fri, 09 Apr 2021 12:19:00 +0240</pubDate>
-      
-      <guid>https://conorcroasdell.github.io/post/2021-04-16-jewellery-in-history/</guid>
-      <description>0</description>
-    </item>
-    
-    <item>
       <title>The Story of the Living Jewellery </title>
       <link>https://conorcroasdell.github.io/post/2021-03-26-the-story-of-the-living-jewellery-piece/</link>
       <pubDate>Thu, 25 Mar 2021 12:19:00 +0240</pubDate>
@@ -151,7 +176,7 @@ In this way mycelium are a vital part of all life on land.</description>
       <pubDate>Sun, 21 Mar 2021 12:19:00 +0240</pubDate>
       
       <guid>https://conorcroasdell.github.io/post/2021-03-21-recycling-3d-printer/</guid>
-      <description>Attempt 1 In the beginning, my plan was to attempt to reproduce HomoFaciens&#39; design as it is the most easily reproduced, using only 3D printed and hardware store items.
+      <description>Attempt 1 In the beginning, my plan was to attempt to reproduce HomoFaciens&#39; design (see my research here for more about it) as it is the most easily reproduced, using only 3D printed and hardware store items.
 The original maker had tweaked his original design as he went to a level where it functioned quite reliably for him even for long prints. I thought I could reproduce his design and then document &amp;amp; test it more completely to maybe make some improvements.</description>
     </item>
     
@@ -201,17 +226,6 @@ https://www.mycosphere.org/ - Research papers on fungi collected
 Elise Elsacker has several published articles on mycelium materials which are extremely relevant: https://www.researchgate.net/profile/Elise-Elsacker
 Fungal Architectures is a new cross-disciplinary research project that seeks to develop a fully integrated structural and computational living substrate using fungal mycelium for the purpose of growing architecture. https://www.fungar.eu/
 Articles, papers, forum posts on mycelium The Effects of Temperature and Nutritional Conditions on Mycelium Growth of Two Oyster Mushrooms (Pleurotus ostreatus and Pleurotus cystidiosus), Ha Thi Hoa, Chun-Li Wang https://pubmed.</description>
-    </item>
-    
-    <item>
-      <title>E-Bike Revisited 2021: Blog 1</title>
-      <link>https://conorcroasdell.github.io/post/2021-02-20-e-bike-2021-blog-1/</link>
-      <pubDate>Sat, 20 Feb 2021 22:19:00 +0200</pubDate>
-      
-      <guid>https://conorcroasdell.github.io/post/2021-02-20-e-bike-2021-blog-1/</guid>
-      <description>Updated E- Bike Kit: 2021
-Reason for updating:
-The current version of the kit fits many types of bikes and is light and easy to attach/ remove but you have to be careful not to overstress the motor (by going up a hill, for example) because the ESC is dumb and will send more current than the motor windings can handle and they will burn out. The current design also uses a sliding 10K Ohm sliding potentiometer, mounted on the handlebar, as a throttle.</description>
     </item>
     
     <item>
